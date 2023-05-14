@@ -1,8 +1,6 @@
 # QCircuits
 
-QCircuits is a Python package for the simulation and study of quantum computers based on the quantum circuit model. 
-
-All the materials needed for the IQC laboratory using [QCircuits quantum simulator](http://www.awebb.info/qcircuits/index.html#) can be found here.
+QCircuits is a Python package for the simulation and study of quantum computers based on the quantum circuit model. All the materials needed for the IQC laboratory using [QCircuits quantum simulator](http://www.awebb.info/qcircuits/index.html#) can be found here.
 
 ## Authors
 
@@ -22,7 +20,7 @@ pip install qcircuits
 
 or from the official [github page](github.com/grey-area/qcircuits).
 
-To run the  provided examples for this simulator, Jupyter Notebook. For more details about how to install Jupyter packages, please go to the [official installation steps](https://jupyter.org/install).
+To run the  provided examples for this simulator, Jupyter Notebook is required. For more details about how to install Jupyter packages, please go to the [official installation steps](https://jupyter.org/install).
 
 ## Brief description
 
