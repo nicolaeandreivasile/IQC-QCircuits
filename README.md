@@ -75,3 +75,6 @@ In 2020, the QCircuits package underwent a major overhaul, with significant impr
 Since then, the QCircuits package has continued to evolve, with the addition of new features such as quantum circuit optimization, noise modeling, and error correction. It has also become a popular tool for teaching and learning quantum computing, with many educational resources and tutorials built around it.
 
 Overall, the QCircuits package has become an essential tool for the quantum computing community, providing a powerful and flexible platform for designing, visualizing, and analyzing quantum circuits using Python. Its continued development and integration with other quantum software packages are sure to play an important role in the future of quantum computing.
+
+## Sidenote:
+For anyone interested in more applications of Quatum Arithmetic and Modular Arithmetics (in Qiskit) you can checkout [https://github.com/adrianariton/qamg](https://github.com/adrianariton/qamg)
