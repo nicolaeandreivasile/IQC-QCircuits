@@ -33,5 +33,5 @@ QCircuits is a fairly new Python package for the simulation and study of quantum
 
 
 # Sidenote:
-- For anyone who is interested in more applications of Quatum Arithmetic and Modular Arithmetics you can checkout [https://github.com/adrianariton/qamg](https://github.com/adrianariton/qamg)
+- For anyone who is interested in more applications of Quatum Arithmetic and Modular Arithmetics (in Qiskit) you can checkout [https://github.com/adrianariton/qamg](https://github.com/adrianariton/qamg)
 
