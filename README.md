@@ -30,3 +30,8 @@ To run the  provided examples for this simulator, Jupyter Notebook is required. 
 
 QCircuits is a fairly new Python package for the simulation and study of quantum computers based on the quantum circuit model. Released in January 2021, it has been designed to have a simple, lightweight interface and to be easy to use, particularly for those new to quantum computing. 
 
+
+
+# Sidenote:
+- For anyone who is interested in more applications of Quatum Arithmetic and Modular Arithmetics you can checkout [https://github.com/adrianariton/qamg](https://github.com/adrianariton/qamg)
+
