@@ -20,6 +20,12 @@ pip install qcircuits
 
 or from the official [github page](github.com/grey-area/qcircuits).
 
+Additional packages are required in order to run some of the examples, such as ***scipy***. The following commands will install the necessary dependencies:
+
+```
+pip install scipy
+```
+
 To run the  provided examples for this simulator, Jupyter Notebook is required. For more details about how to install Jupyter packages, please go to the [official installation steps](https://jupyter.org/install).
 
 ## Brief description
