@@ -78,3 +78,4 @@ Overall, the QCircuits package has become an essential tool for the quantum comp
 
 ## Sidenote:
 For anyone interested in more applications of Quatum Arithmetic and Modular Arithmetics (in Qiskit) you can checkout [https://github.com/adrianariton/qamg](https://github.com/adrianariton/qamg)
+
