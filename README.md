@@ -77,4 +77,5 @@ Since then, the QCircuits package has continued to evolve, with the addition of 
 Overall, the QCircuits package has become an essential tool for the quantum computing community, providing a powerful and flexible platform for designing, visualizing, and analyzing quantum circuits using Python. Its continued development and integration with other quantum software packages are sure to play an important role in the future of quantum computing.
 
 ## Sidenote:
-- For anyone interested in more applications of Quatum Arithmetic and Modular Arithmetics (in Qiskit) you can checkout [https://github.com/adrianariton/qamg](https://github.com/adrianariton/qamg)
+For anyone interested in more applications of Quatum Arithmetic and Modular Arithmetics (in Qiskit) you can checkout [https://github.com/adrianariton/qamg](https://github.com/adrianariton/qamg)
+
